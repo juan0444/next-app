@@ -1,0 +1,46 @@
+{
+  "topics": [
+    {
+      "id": "12cf",
+      "title": "00",
+      "body": "00"
+    },
+    {
+      "id": "3cc8",
+      "title": "11",
+      "body": "11"
+    },
+    {
+      "id": "4551",
+      "title": "22",
+      "body": "222200"
+    },
+    {
+      "id": "f44c",
+      "title": "33",
+      "body": "33"
+    },
+    {
+      "id": "9e94",
+      "title": "444400",
+      "body": "444400"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
